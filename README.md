@@ -21,10 +21,9 @@ Soy QA Engineer de Monterrey, Nuevo León.
 
 - :seedling: Participación como QA en pruebas funcionales y de APIs para un sistema ERP complejo y de gran escala. Validación exhaustiva de endpoints REST utilizando Swagger UI, con verificación detallada de respuestas JSON, documentación rigurosa de casos de prueba y resultados en un log, así como gestión y seguimiento de una matríz de pruebas en Excel para cada módulo de cada sprint. Levantamiento y seguimiento y priorización de bugs en Azure DevOps, simulación de condiciones de desconexión para evaluar resiliencia y estabilidad del sistema ante dichos escenarios. Validación de funcionalidades avanzadas de gestión de permisos, incluyendo control para mostrar u ocultar botones, direcciones, etc según el tipo de usuario o permisos asignados.
 
-- :zap: In my free time, I create content for <a href="https://www.freerangetesters.com/">Free Range Testers</a> and make music on <a href="https://open.spotify.com/intl-es/artist/1n8lYlkH7XKivKBmh6oey1/">Modern Druids</a>.
+- :mailbox: Participación como QA en un sistema ya desarrollado sin HU's definidas. Inicialmente estuve en sesiones de entendimiento técnico con el proveedor para comprender el funcionamiento y flujo del sistema legado. Se realizaron pruebas exploratorias para identificar debilidades y puntos críticos del sistema y se elaboró un reporte de pruebas detallado, documentando cada incidencia con descripción técnica y repercusiones. Se entregó el reporte al cliente con evidencias y justificaciones para cada una de las correcciones y mejoras de aspectos relacionados con seguridad, integridad de datos y estabilidad general del sistema.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Pato-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patricio-m-690b3729)
-
+- :zap: Actualmente estoy estudiando ingles, hace unas semanas certifique el A2. En mis tiempos libres suelo ver contenido y noticias del mundo del desarrollo, me gusta estar al tanto de nuevas tendencias, nuevas herramientas, novedades con la IA y las empresas que están detrás de ellas. En general me gusta mucho el mundo del desarrollo y la tecnología, desde pequeño así lo fue por influencias de mi hermano mayor jeje.
 ---
 
 ### :hammer_and_wrench: Languages and Dev Tools :
