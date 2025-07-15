@@ -16,10 +16,12 @@
 
 ---
 ### :man_technologist: Acerca de mí :
-Soy QA Engineer de Monterrey, Nuevo León.
+Soy QA Tester de Monterrey, Nuevo León.
 - :telescope: Responsable total de QA en un proyecto que permite publicar y gestionar contenido, siendo encargado de validar entregas en distintos sprints, de elaborar matrices de prueba, ejecución de pruebas E2E desde la UI, levantamiento y seguimiento de bugs en Azure DevOps, coordinación directa con desarrolladores y PM, estimación de tiempos de validación de cada sprint, entrega de VoBo final para liberar cada sprint.
   
 - :seedling: Participación como QA en pruebas funcionales y de APIs para un sistema ERP complejo y de gran escala. Validación exhaustiva de endpoints REST utilizando Swagger UI, con verificación detallada de respuestas JSON, documentación rigurosa de casos de prueba y resultados en un log, así como gestión y seguimiento de una matríz de pruebas en Excel para cada módulo de cada sprint. Levantamiento y seguimiento y priorización de bugs en Azure DevOps, simulación de condiciones de desconexión para evaluar resiliencia y estabilidad del sistema ante dichos escenarios. Validación de funcionalidades avanzadas de gestión de permisos, incluyendo control para mostrar u ocultar botones, direcciones, etc según el tipo de usuario o permisos asignados.
+
+- 🤖 Actualmente participo en un proyecto donde hay dos chatbots relacionados a una plataforma web. Este proyecto representa un nuevo reto profesional, en el cual estoy aprendiendo nuevos conceptos clave como intents, matching, flujos conversacionales, respuestas dinámicas, etc. Mi rol incluye la ejecución de pruebas funcionales, así como la identificación de posibles fallos. Esto me ha permitido adquirir una perspectiva más amplia sobre la UX en interfaces no tradicionales y fortalecer mis habilidades como QA en productos basados en inteligencia conversacional.
 
 - :mailbox: Participación como QA en un sistema ya desarrollado sin HU's definidas. Inicialmente estuve en sesiones de entendimiento técnico con el proveedor para comprender el funcionamiento y flujo del sistema legado. Se realizaron pruebas exploratorias para identificar debilidades y puntos críticos del sistema y se elaboró un reporte de pruebas detallado, documentando cada incidencia con descripción técnica y repercusiones. Se entregó el reporte al cliente con evidencias y justificaciones para cada una de las correcciones y mejoras de aspectos relacionados con seguridad, integridad de datos y estabilidad general del sistema.
 
