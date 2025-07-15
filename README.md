@@ -25,20 +25,19 @@ Soy QA Tester de Monterrey, Nuevo León.
 
 - :mailbox: Participación como QA en un sistema ya desarrollado sin HU's definidas. Inicialmente estuve en sesiones de entendimiento técnico con el proveedor para comprender el funcionamiento y flujo del sistema legado. Se realizaron pruebas exploratorias para identificar debilidades y puntos críticos del sistema y se elaboró un reporte de pruebas detallado, documentando cada incidencia con descripción técnica y repercusiones. Se entregó el reporte al cliente con evidencias y justificaciones para cada una de las correcciones y mejoras de aspectos relacionados con seguridad, integridad de datos y estabilidad general del sistema.
 
-- 👨‍🎓 Actualmente estoy estudiando ingles y cypress, hace unas semanas certifique el A2. En mis tiempos libres suelo ver contenido y noticias del mundo del desarrollo, me gusta estar al tanto de nuevas tendencias, nuevas herramientas, novedades con la IA y las empresas que están detrás de ellas. En general me gusta mucho el mundo del desarrollo y la tecnología, desde pequeño así lo fue por influencias de mi hermano mayor jeje.
+- 👨‍🎓 Actualmente estoy estudiando Katalon e Ingles, hace unas semanas certifique el A2. En mis tiempos libres suelo ver contenido y noticias del mundo del desarrollo, me gusta estar al tanto de nuevas tendencias, nuevas herramientas, novedades con la IA y las empresas que están detrás de ellas. En general me gusta mucho el mundo del desarrollo y la tecnología, desde pequeño así lo fue por influencias de mi hermano mayor jeje.
 ---
 
 ### :man_technologist: Tecnologías y herramientas :
 - :telescope: Scrum, JIRA, Azure DevOps.
 - 🔭: Swagger UI, Apis REST, JSON
-- 🔭: Cypress (en proceso)
+- 🔭: Katalon (en proceso)
 - 🔭: Excel, Browserstack, DevTools
 - 🔭: Laravel, PHP (básico)
   
 
 ### 🐞 Tools :
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" title="CypressIO" **alt="CypressIO" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" title="Azure DevOps" **alt="Azure DevOps" width="40" height="40"/>
 
 </div>
