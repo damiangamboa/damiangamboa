@@ -16,7 +16,7 @@
 
 ---
 ### :man_technologist: Acerca de mí :
-Soy QA Tester de Monterrey, Nuevo León.
+Soy QA Analyst de Monterrey, Nuevo León.
 - :telescope: Responsable total de QA en un proyecto que permite publicar y gestionar contenido, siendo encargado de validar entregas en distintos sprints, de elaborar matrices de prueba, ejecución de pruebas E2E desde la UI, levantamiento y seguimiento de bugs en Azure DevOps, coordinación directa con desarrolladores y PM, estimación de tiempos de validación de cada sprint, entrega de VoBo final para liberar cada sprint.
   
 - :seedling: Participación como QA en pruebas funcionales y de APIs para un sistema ERP complejo y de gran escala. Validación exhaustiva de endpoints REST utilizando Swagger UI, con verificación detallada de respuestas JSON, documentación rigurosa de casos de prueba y resultados en un log, así como gestión y seguimiento de una matríz de pruebas en Excel para cada módulo de cada sprint. Levantamiento y seguimiento y priorización de bugs en Azure DevOps, simulación de condiciones de desconexión para evaluar resiliencia y estabilidad del sistema ante dichos escenarios. Validación de funcionalidades avanzadas de gestión de permisos, incluyendo control para mostrar u ocultar botones, direcciones, etc según el tipo de usuario o permisos asignados.
