@@ -1,52 +1,42 @@
 <div id="header" align="center">
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/damiangamboa/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=damiangamboa&color=blue" alt=""/>
-  <h1>
-  Hello there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmg3cnk4cmFkb3pnMHVjODA0MzV1ajRsZGxvdHZ2YW1nNGV6OGN3MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
+  <h1>👋 Hola, soy Damián Gamboa</h1>
+  <h2>QA Software Engineer</h2>
+  <p>
+    <a href="https://www.linkedin.com/in/damiangamboa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:damiangamboa5751@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  </p>
 </div>
 
 ---
-### :man_technologist: Acerca de mí :
-Soy QA Analyst de Monterrey, Nuevo León.
-- :telescope: Responsable total de QA en un proyecto que permite publicar y gestionar contenido, siendo encargado de validar entregas en distintos sprints, de elaborar matrices de prueba, ejecución de pruebas E2E desde la UI, levantamiento y seguimiento de bugs en Azure DevOps, coordinación directa con desarrolladores y PM, estimación de tiempos de validación de cada sprint, entrega de VoBo final para liberar cada sprint.
-  
-- :seedling: Participación como QA en pruebas funcionales y de APIs para un sistema ERP complejo y de gran escala. Validación exhaustiva de endpoints REST utilizando Swagger UI, con verificación detallada de respuestas JSON, documentación rigurosa de casos de prueba y resultados en un log, así como gestión y seguimiento de una matríz de pruebas en Excel para cada módulo de cada sprint. Levantamiento y seguimiento y priorización de bugs en Azure DevOps, simulación de condiciones de desconexión para evaluar resiliencia y estabilidad del sistema ante dichos escenarios. Validación de funcionalidades avanzadas de gestión de permisos, incluyendo control para mostrar u ocultar botones, direcciones, etc según el tipo de usuario o permisos asignados.
 
-- 🤖 Actualmente participo en un proyecto donde hay dos chatbots relacionados a una plataforma web. Este proyecto representa un nuevo reto profesional, en el cual estoy aprendiendo nuevos conceptos clave como intents, matching, flujos conversacionales, respuestas dinámicas, etc. Mi rol incluye la ejecución de pruebas funcionales, así como la identificación de posibles fallos. Esto me ha permitido adquirir una perspectiva más amplia sobre la UX en interfaces no tradicionales y fortalecer mis habilidades como QA en productos basados en inteligencia conversacional.
+## 👨‍💻 Sobre mí
 
-- :mailbox: Participación como QA en un sistema ya desarrollado sin HU's definidas. Inicialmente estuve en sesiones de entendimiento técnico con el proveedor para comprender el funcionamiento y flujo del sistema legado. Se realizaron pruebas exploratorias para identificar debilidades y puntos críticos del sistema y se elaboró un reporte de pruebas detallado, documentando cada incidencia con descripción técnica y repercusiones. Se entregó el reporte al cliente con evidencias y justificaciones para cada una de las correcciones y mejoras de aspectos relacionados con seguridad, integridad de datos y estabilidad general del sistema.
+Tengo un amor genuino por el mundo del software y la automatización. Actualmente estoy en la etapa final de mi Ingeniería. Mi enfoque profesional va mucho más allá de asegurar la calidad de un release; me dedico a entender la lógica de negocio profunda de los productos (especialmente en ecosistemas logísticos y e-commerce) para construir soluciones y herramientas internas que contribuyan a validar la calidad de los mismos.
 
-- 👨‍🎓 Actualmente estoy estudiando Katalon e Ingles, hace unas semanas certifique el A2. En mis tiempos libres suelo ver contenido y noticias del mundo del desarrollo, me gusta estar al tanto de nuevas tendencias, nuevas herramientas, novedades con la IA y las empresas que están detrás de ellas. En general me gusta mucho el mundo del desarrollo y la tecnología, desde pequeño así lo fue por influencias de mi hermano mayor jeje.
 ---
 
-### :man_technologist: Tecnologías y herramientas :
-- :telescope: Scrum, JIRA, Azure DevOps.
-- 🔭: Swagger UI, Apis REST, JSON
-- 🔭: Katalon (en proceso)
-- 🔭: Excel, Browserstack, DevTools
-- 🔭: Laravel, PHP (básico)
-  
+## 🛠️ Stack Tecnológico
 
-### 🐞 Tools :
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" title="Azure DevOps" **alt="Azure DevOps" width="40" height="40"/>
+| Categoría | Tecnologías & Herramientas |
+| :--- | :--- |
+| **Test Automation** | *Playwright, JavaScript, Node.js, Custom Fixtures, POM* |
+| **Backend & APIs** | *Postman, Swagger, REST APIs, Network Interception* |
+| **Mobile & Debugging** | *Xcode, Android Studio, Proxyman, Sentry* |
+| **CI/CD, DevOps & Security** | *GitHub Actions, Husky (Pre-commit/Pre-push Hooks), Multi-Environment Orchestration* |
+| **Metodologías & Calidad** | *Zero-Flakiness, Shift-Left Testing, Idempotency Validations* |
 
-</div>
+---
 
-### :hammer_and_wrench: Languages and Dev Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://devicon-website.vercel.app/api/php/original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-</div>
+## 📐 Arquitectura de Software & Estrategias de Testing
 
+Construyo frameworks de alto rendimiento aplicando principios SOLID, minimizando la latencia de ejecución y garantizando casi un 0% flakiness a través del control absoluto del estado y la red.
+
+- 🔑 **State Persistence & Dynamic Auth Injection**: Abandono la autenticación basada en UI en favor de la manipulación directa del Browser Context. Implemento arquitecturas de Dual-Auth (Bypass vía peticiones POST a la API y persistencia SSO) para inyectar cookies y tokens directamente en el estado del navegador. Esto reduce el setup time de las suites y habilita ejecuciones de ultra-alta velocidad en pipelines.
+
+- ⚡ **Event-Driven Network Synchronization**: Reemplazo por completo los hard waits y la evaluación ciega del DOM. Diseño interceptores de red que condicionan los assertions del Frontend a la resolución exitosa (HTTP 200 OK) del Backend. Implemento listeners asíncronos para capturar promesas fallidas y errores silenciosos (HTTP 5xx) en segundo plano, logrando aislar si la causa raíz de un bug pertenece a la capa de servicios o del Frontend.
+
+- 🛑 **Fail-Fast Orchestration & Pre-flight Checks**: Orquestación centralizada mediante Global Setups que evalúan dinámicamente la salud de los endpoints críticos y la validez de los objetos de sesión antes de instanciar los workers. Si el entorno presenta degradación, el framework aborta el proceso para no desperdiciar recursos de cómputo en la nube.
+
+- 🧩 **Custom Fixtures & Dependency Injection**: Extensión nativa del motor de Playwright para inyectar Page Objects pre-configurados en el contexto de cada prueba. Esto garantiza el aislamiento estricto de los datos, elimina la instanciación manual y mantiene el código altamente modular.
+
+- 🛡️ **Shift-Left Security & Git Hooks**: Integración de automatizaciones en el ciclo de vida del control de versiones mediante Husky. Implementación de Pre-commit hooks para el análisis estático y prevención de fuga de credenciales (API keys/Tokens), junto con Pre-push hooks para la auditoría y bloqueo de vulnerabilidades críticas en el árbol de dependencias de Node.js.
