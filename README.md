@@ -11,8 +11,13 @@
 
 Tengo un amor genuino por el mundo del software y la automatización. Actualmente estoy en la etapa final de mi Ingeniería. Mi enfoque profesional va mucho más allá de asegurar la calidad de un release; me dedico a entender la lógica de negocio profunda de los productos (especialmente en ecosistemas logísticos y e-commerce) para construir soluciones y herramientas internas que contribuyan a validar la calidad de los mismos.
 
+## 🛠️ Habilidades de QA
 
-## 🛠️ Stack Tecnológico
+- **Quality Engineering & Análisis Crítico de Negocio:** Diseño y ejecución de estrategias de pruebas para tener cobertura total del producto, asegurando la integridad de datos desde la capa de servicios hasta el cliente final, mitigando riesgos financieros en producción.
+- **Test Automation Architecture:** Construcción y despliegue de frameworks corporativos. Dominio de Playwright/JavaScript/Node.js para construcción de frameworks escalables en el ecosistema de Playwright. Gestión autónoma de repositorios y seguridad.
+- **CI/CD:** Definición de estándares de calidad e integración de suites de automatización en pipelines de CI/CD (GitHub Actions/Git hooks) para establecer compuertas de seguridad antes de cualquier merge a producción.
+
+## 💻 Stack Tecnológico
 
 | Categoría | Tecnologías & Herramientas |
 | :--- | :--- |
@@ -23,7 +28,7 @@ Tengo un amor genuino por el mundo del software y la automatización. Actualment
 | **Metodologías & Calidad** | *Zero-Flakiness, Shift-Left Testing, Idempotency Validations* |
 
 
-## 📐 Arquitectura de Software & Estrategias de Testing
+## 📐 Core Automation Architecture & Shift-Left Integration
 
 Construyo frameworks de alto rendimiento aplicando principios SOLID, minimizando la latencia de ejecución y garantizando casi un 0% flakiness a través del control absoluto del estado y la red.
 
